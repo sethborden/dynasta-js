@@ -1,0 +1,14 @@
+{
+  "name": "dynasta-js",
+  "version": "1.0.0",
+  "description": "Calls out and get's your computer's public IP address, if it doesn't match what's in your config, it calls out to an API to make your DNS record point to the right place.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "ip"
+  ],
+  "author": "Seth Borden",
+  "license": "MIT"
+}
