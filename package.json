@@ -6,10 +6,14 @@
   "scripts": {
     "test": "mocha"
   },
-  "repository" : "https://github.com/sethborden/dynasta-js"
+  "repository": "https://github.com/sethborden/dynasta-js",
   "keywords": [
     "ip"
   ],
   "author": "Seth Borden",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.12.0",
+    "config": "^1.21.0",
+  }
 }
